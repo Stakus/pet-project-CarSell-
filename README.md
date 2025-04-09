@@ -1,4 +1,4 @@
-# pet-project-CarSell
+# CarSell-PP
 This is a simple Car Management System built using Laravel 11, based on the tutorial by The Codeholic. The project is designed to help users manage a list of cars, including their brand, model, production year, and availability.
 📹 Tutorial Source
 This project was created while following this YouTube tutorial by [The Codeholic]: 👉 Laravel 12 in 11 hours - Laravel for Beginners Full Course  
